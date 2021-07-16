@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+  background-color: antiquewhite;
+  height: 86vh;
+  flex-grow: 1;
+  justify-content: space-between;
+}

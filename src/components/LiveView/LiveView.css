@@ -1,0 +1,10 @@
+.liveview-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 44%;
+  background-color: burlywood;
+  margin: 0 0 0 15px;
+  padding: 10px;
+}
