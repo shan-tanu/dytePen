@@ -17,3 +17,6 @@
   flex-grow: 1;
   justify-content: space-between;
 }
+
+@media screen only and (max-width: 640px) {
+}

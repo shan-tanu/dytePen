@@ -4,7 +4,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div className="footer-container">
-      <h1>Footer</h1>
+      <p>Assignment made during Dyte recruitment by Shantanu M. G. 18BCE0362</p>
     </div>
   );
 };
